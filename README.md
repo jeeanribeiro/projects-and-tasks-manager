@@ -1,3 +1,5 @@
 # projects-and-tasks-manager
 
-Simple CRUD made with Express to manage projects and tasks
+Simple CRUD to manage projects and tasks
+
+Made with Express.js
